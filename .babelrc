@@ -1,0 +1,6 @@
+{
+    //it's will allow to us to run es6 inside out server
+    "presets": [
+        "env","stage-0"
+    ]
+}
